@@ -1,0 +1,61 @@
+{
+    "North America": {
+        "United States": "America/New_York",
+        "Canada": "America/Toronto",
+        "Mexico": "America/Mexico_City",
+        "Jamaica": "America/Jamaica",
+        "Costa Rica": "America/Costa_Rica",
+        "Bahamas": "America/Nassau",
+        "Honduras": "America/Tegucigalpa",
+        "Cuba": "America/Havana",
+        "Dominican Republic": "America/Santo_Domingo"
+    },
+    "South America": {
+        "Brazil": "America/Sao_Paulo",
+        "Argentina": "America/Argentina/Buenos_Aires",
+        "Chile": "America/Santiago",
+        "Colombia": "America/Bogota",
+        "Peru": "America/Lima",
+        "Uruguay": "America/Montevideo",
+        "Ecuador": "America/Guayaquil",
+        "Bolivia": "America/La_Paz",
+        "Paraguay": "America/Asuncion",
+        "Venezuela": "America/Caracas"
+    },
+    "Europe": {
+        "United Kingdom": "Europe/London",
+        "France": "Europe/Paris",
+        "Germany": "Europe/Berlin",
+        "Italy": "Europe/Rome",
+        "Spain": "Europe/Madrid",
+        "Russia": "Europe/Moscow",
+        "Turkey": "Europe/Istanbul",
+        "Greece": "Europe/Athens",
+        "Poland": "Europe/Warsaw",
+        "Ukraine": "Europe/Kiev"
+    },
+    "Asia": {
+        "India": "Asia/Kolkata",
+        "Japan": "Asia/Tokyo",
+        "China": "Asia/Shanghai",
+        "Saudi Arabia": "Asia/Riyadh",
+        "South Korea": "Asia/Seoul",
+        "Indonesia": "Asia/Jakarta",
+        "Malaysia": "Asia/Kuala_Lumpur",
+        "Vietnam": "Asia/Ho_Chi_Minh",
+        "Philippines": "Asia/Manila",
+        "Thailand": "Asia/Bangkok"
+    },
+    "Oceania": {
+        "Australia": "Australia/Sydney",
+        "New Zealand": "Pacific/Auckland",
+        "Fiji": "Pacific/Fiji",
+        "Papua New Guinea": "Pacific/Port_Moresby",
+        "Samoa": "Pacific/Apia",
+        "Tonga": "Pacific/Tongatapu",
+        "Solomon Islands": "Pacific/Guadalcanal",
+        "Vanuatu": "Pacific/Efate",
+        "Kiribati": "Pacific/Tarawa",
+        "New Caledonia": "Pacific/Noumea"
+    }
+}
